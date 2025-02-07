@@ -17,8 +17,7 @@ images, and external links, and even write and save personal notes or memories a
 
 1. Clone the repository from GitHub:
    ```sh
-   git clone https://github.com/your-username/SwiftfulMapApp.git
-   ```
+https://github.com/Amanchavare/EuroExplore.git   ```
 2. Open the project in Xcode.
 3. Build and run the app on an iOS simulator or a real device.
 
